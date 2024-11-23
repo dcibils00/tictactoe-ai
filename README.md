@@ -1,4 +1,5 @@
-pip install pygame
-python tictactoe.py
+$ pip install pygame
+
+$ python tictactoe.py
 
 enjoy!
